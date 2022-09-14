@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+#main-title {
+    color: navy;
+    margin-top: auto;
+    text-align: center;    
+}
+
+.content {
+    margin-bottom: 12px;
+}
